@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvpdate",
+        "uuid": 4956180,
+        "checksum": "k6tac"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
